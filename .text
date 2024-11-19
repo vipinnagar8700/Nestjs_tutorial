@@ -1,0 +1,5 @@
+npm i -g nestjs/cli
+next new task-management
+nest g mudule tasks
+nest g controller tasks
+nest g service tasks
